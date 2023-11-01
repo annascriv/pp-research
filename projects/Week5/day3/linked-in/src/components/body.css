@@ -1,0 +1,92 @@
+.profile-section {
+    height:300px;
+    border:2px solid grey;
+    width: 600px;
+    margin-top:20px;
+    border-radius: 50px;
+    background-color: white;
+    
+
+}
+
+.image-container {
+    position:relative;
+
+}
+
+#profile-pic {
+    position:absolute;
+    border: 2px solid black;
+    border-radius: 50%;
+    height:100px;
+    margin-top:20px;
+    margin-left: 20px;
+    z-index:2;
+}
+
+
+#coverphoto {
+    position:absolute;
+    margin-top:0px;
+    z-index:1;
+    height:150px;
+    border:2px solid black;
+    border-radius: 50px;
+    
+}
+
+.nameinfo {
+    margin-top:155px;
+    margin-left:20px;
+}
+
+.aboutsection {
+    margin-left:20px;
+}
+
+.about-section {
+    height:180px;
+    border:2px solid grey;
+    width: 600px;
+    margin-top:20px;
+    border-radius: 50px;
+    background-color: white;
+    
+
+}
+
+#contact {
+    margin-left:10px;
+    background-color:lightgray;
+    
+}
+
+.education-section {
+    height:300px;
+    border:2px solid grey;
+    width: 600px;
+    margin-top:20px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.educationinfo {
+    margin-left: 20px;
+}
+
+#kstatelogo {
+    border:2px solid black;
+    height:30px;
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#cplogo {
+    border:1px solid black;
+    height:50px;
+    width:50px;
+    margin-right: 10px;
+}
