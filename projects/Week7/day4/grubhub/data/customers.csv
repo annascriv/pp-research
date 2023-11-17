@@ -1,0 +1,4 @@
+id,first_name,last_name,email,phone_number
+1,John,Doe,johndoe@email.com,555-1234
+2,Jane,Smith,janesmith@email.com,555-5678
+3,Bob,Johnson,bobjohnson@email.com,555-9876
